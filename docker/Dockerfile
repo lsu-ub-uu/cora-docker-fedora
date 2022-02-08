@@ -1,0 +1,1 @@
+FROM fcrepo/fcrepo:6.1.1
