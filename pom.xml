@@ -36,9 +36,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:https://github.com/lsu-ub-uu/cora-docker-tomcat.git</connection>
-		<developerConnection>scm:git:https://github.com/lsu-ub-uu/cora-docker-tomcat.git</developerConnection>
-		<url>https://github.com/lsu-ub-uu/cora-docker-tomcat.git</url>
+		<connection>scm:git:https://github.com/lsu-ub-uu/cora-docker-fedora.git</connection>
+		<developerConnection>scm:git:https://github.com/lsu-ub-uu/cora-docker-fedora.git</developerConnection>
+		<url>https://github.com/lsu-ub-uu/cora-docker-fedora.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
