@@ -27,7 +27,7 @@
 
 	<artifactId>cora-docker-fedora</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Cora docker for Fedora Commons</name>
 
 	<properties>
@@ -39,7 +39,7 @@
 		<connection>scm:git:https://github.com/lsu-ub-uu/cora-docker-fedora.git</connection>
 		<developerConnection>scm:git:https://github.com/lsu-ub-uu/cora-docker-fedora.git</developerConnection>
 		<url>https://github.com/lsu-ub-uu/cora-docker-fedora.git</url>
-		<tag>release/1.0</tag>
+		<tag>cora-docker-fedora-1.0.0</tag>
 	</scm>
 
 </project>
